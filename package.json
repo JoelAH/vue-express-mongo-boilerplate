@@ -52,7 +52,7 @@
     "chalk": "2.4.1",
     "cli-table2": "0.2.0",
     "clui": "0.3.6",
-    "compression": "1.7.3",
+    "compression": "1.8.2",
     "connect-mongo": "2.0.1",
     "cookie-parser": "1.4.3",
     "cross-env": "5.2.0",
